@@ -1,3 +1,2 @@
-nothing is impossible
-you can do it 
+this is a new news 
 
