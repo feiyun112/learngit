@@ -4,7 +4,6 @@ hello,bill ,you can do it.
 jim will go home at night
 My stupid boss is so stupid
 kk
+<<<<<<< HEAD
 Create a new branch is quick.
-why can do it
-kkkkkkkkkkkkkkkkkkkkkkkkkkkk
-11111------>>>2222
+why can it
