@@ -1,3 +1,1 @@
-Git is a version control system.
-so easy
-twice
+Git is a version control syst
